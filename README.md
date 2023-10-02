@@ -70,4 +70,4 @@ The project evaluates the predictive models using various metrics such as accura
 
 Feel free to reach out with any questions or suggestions!
 
-We hope this project contributes to the prevention of counterfeit banknotes and enhances financial security. Thank you for your interest and support!
+I hope this project contributes to the prevention of counterfeit banknotes and enhances financial security. Thank you for your interest and support!
